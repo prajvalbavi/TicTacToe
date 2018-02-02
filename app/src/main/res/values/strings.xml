@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string-array name="listofAlgo">
+        <item>Minimax</item>
+        <item>Minimax + AlphaBeta</item>
+        <item>Minimax Cutoff</item>
+        <item>Minimax Cutoff Win Heuristic</item>
+    </string-array>
+</resources>
